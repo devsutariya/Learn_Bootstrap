@@ -1,4 +1,4 @@
-.container{
+/* .container{
     border: 8px solid black;
 }
 .container-fluid{
@@ -9,4 +9,42 @@
 }
 .all .col-sm{
     border: 5px solid green;
+} */
+.header{
+    background: #3a97bf;
+}
+.navbar ul{
+    /* background: rgb(230, 38, 38); */
+    /* color: white; */
+    list-style: none;
+    display: flex;
+    /* background-color: #3a97bf; */   
+}
+.navbar ul li{
+    padding-left: 21px;
+}
+.l-sidebar{
+    background-color: black;
+}
+.l-sidebar ul{
+    list-style: none;
+}
+.l-sidebar ul li a{
+    color: white;
+}
+.content{
+    background: white;
+}
+.r-sidebar{
+    background: green;
+}
+.r-sidebar ul{
+    list-style: none;
+}
+.r-sidebar ul li a{
+    color: white;
+}
+
+.footer{
+    background: #3a97bf;
 }
