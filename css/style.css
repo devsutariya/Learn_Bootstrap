@@ -1,4 +1,4 @@
-/* .container{
+.container{
     border: 8px solid black;
 }
 .container-fluid{
@@ -9,7 +9,22 @@
 }
 .all .col-sm{
     border: 5px solid green;
-} */
+}
+ .red{
+    background-color: red;
+ }
+ .blue{
+    background-color: blue;
+ }
+ .green{
+    background-color: green;
+ }
+ .orange{
+    background-color: orange;
+ }
+ .pink{
+    background-color: pink;
+ }
 .header{
     background: #3a97bf;
 }
